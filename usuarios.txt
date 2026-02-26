@@ -1,0 +1,3 @@
+Admin:0000:Admin
+Dala:1234:Vendas
+Joao:1111:Recepcao
